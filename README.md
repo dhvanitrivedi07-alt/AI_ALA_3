@@ -1,2 +1,3 @@
-# wd_ala_1
-web_dev_blogpage
+# AI_ala_3
+python code and pdf file
+ALA of Dhvani Tivedi & Shravya Makwana
